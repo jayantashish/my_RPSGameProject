@@ -8,3 +8,5 @@ Project Preview:
 ![Screenshot 2024-01-24 195453](https://github.com/jayantashish/my_RPSGameProject/assets/84563586/6c5a9df1-9508-40e0-87d1-9df900c6546f)
 
 ![Screenshot 2024-01-24 195624](https://github.com/jayantashish/my_RPSGameProject/assets/84563586/13532bab-9f07-464c-ac5f-e3a8a1ea6d6b)
+
+![Screenshot 2024-01-24 195834](https://github.com/jayantashish/my_RPSGameProject/assets/84563586/8ac1db83-059f-48d5-be7b-58e17badb58c)
